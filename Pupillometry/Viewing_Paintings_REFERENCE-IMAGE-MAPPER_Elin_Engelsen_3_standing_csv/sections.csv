@@ -1,0 +1,6 @@
+section id,recording id,recording name,wearer id,wearer name,section start time [ns],section end time [ns],start event name,end event name
+21227327-b8d8-4f1a-ac68-5fc6eefe8bf4,54a0deee-23dd-48f4-806e-6fdb519d6a7c,Steven_Standing_Downstairs,f81c3eee-3970-40d1-84a5-6732c8ef2d75,Steven,1636035501954000000,1636035519318000000,Elin_Engelsen_3_start,Elin_Engelsen_3_end
+91fe06da-2246-442a-a11d-89886ae81721,95833eee-cc7c-41ad-a242-b0db2e421866,Jack_Standing_Downstairs,539b9eee-bf45-4512-bbb1-05ae07a71517,Jack,1635864116494000000,1635864138204000000,Elin_Engelsen_3_start,Elin_Engelsen_3_end
+291699f6-7b84-4853-b3ec-0d1d7289434a,b1eafeee-a388-4c85-86a4-fa855bc4bea3,Anna_Standing_Downstairs,e4184eee-9fb8-452a-9ba7-05db8471a5af,Anna,1636382486837000000,1636382499103000000,Elin_Engelsen_3_start,Elin_Engelsen_3_end
+76bd39bc-5bba-4334-9f06-93c645ce69be,c9431eee-9299-4234-81b7-1df1e3e6e97c,Susan_Standing_Downstairs,82efdeee-17e3-476d-9e18-3e05a3228b85,Susan,1636386807172000000,1636386820984000000,Elin_Engelsen_3_start,Elin_Engelsen_3_end
+f8593f3e-f79b-449f-9f12-c5b42f48a8c8,737e9eee-89e5-4d1b-9b06-57d84e51eaca,Michelle_Standing_Downstairs,737c0eee-701a-4579-8457-9c7eb26dc0b6,Michelle,1636633956490000000,1636633973959000000,Elin_Engelsen_3_start,Elin_Engelsen_3_end
